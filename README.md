@@ -13,3 +13,11 @@ O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas c
 (dia 1) - Hoje é o primeiro dia do NLW, onde já desenvolvemos a home page do projeto utilizando HTML e CSS. Apesar de já ter conhecimento nessas duas tecnologias, eu pude revisar conceitos básicos e colocá-los em prática novamente. Tive a oportunidade de conhecer outros devs que estão participando do evento, compartilhar conhecimentos, ideias, etc.
 
 (dia 5 e último) - Ufa!! Que semana! Ao longo desses 5 dias eu tive uma imersão total neste projeto incrível. Aprendemos como utilizar Javascript, Git, NodeJS, Nunjucks, banco de dados, etc. Cada conhecimento novo foi muito valioso, pois já estarei aplicando em projetos futuros que estarei realizando a partir de agora. Só tenho a agradecer a Rocketseat e aos outros devs que conheci ao longo dessa semana por ter me proporcionado essa experiência única!
+
+Para Executar o Projeto deverá usar o seguinte comando no seu terminal:
+
+Faça dowload do arquivo Zip ou clone o repositorio: git clone https://github.com/ojotajota/uploadNextlevelweek.git
+
+Instale as dependencias com o comando : npm install
+execute o projeto com o comando: npm start
+Abra o navegador no seguinte endereço: http://localhost:3000/ 
