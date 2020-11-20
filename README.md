@@ -14,7 +14,7 @@ O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas c
 
 (dia 5 e último) - Ufa!! Que semana! Ao longo desses 5 dias eu tive uma imersão total neste projeto incrível. Aprendemos como utilizar Javascript, Git, NodeJS, Nunjucks, banco de dados, etc. Cada conhecimento novo foi muito valioso, pois já estarei aplicando em projetos futuros que estarei realizando a partir de agora. Só tenho a agradecer a Rocketseat e aos outros devs que conheci ao longo dessa semana por ter me proporcionado essa experiência única!
 
-Para Executar o Projeto deverá usar o seguinte comando no seu terminal:
+Para Executar o Projeto deverá seguir os seguintes passos no seu terminal:
 
 Faça dowload do arquivo Zip ou clone o repositorio: git clone https://github.com/ojotajota/uploadNextlevelweek.git
 
